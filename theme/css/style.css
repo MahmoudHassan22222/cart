@@ -1,0 +1,98 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* Framwork */
+
+/* NavBar */
+.login-page{
+    font-weight: 700;
+    border-radius: 0;
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 21px;
+    line-height: 20px;
+    background-color: #333;
+    color: #6599b9;
+}
+.navbar{
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    background-color: #089805;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover{
+    color: #e89090;
+}
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:visited{
+    color: #ffffff;
+}
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover{
+    background-color: #099cc7;
+    color: #ffffff;
+    font-size: 16px;
+}
+.profile_logo{
+    font-size: 30px;
+    color: #d8d2d2;
+}
+.nav_profile>li>a{
+    font-size: 19px;
+    padding: 10px 3px;
+}
+.nav_profile img{
+    width: 42px;
+    height: 42px;
+    float: left;
+    margin: 5px;
+    border: 1px solid #59c157;
+    border-radius: 42px;
+    padding: 1px;
+}
+.nav_profile li>a .profile_usr{
+    line-height: 0;
+}
+/* Login Page */
+.login{
+    max-width: 550px;
+    margin: 100px auto;
+    border: 2px solid #f1ebeb;
+    padding: 10px 25px;
+}
+.login input{
+    margin-bottom: 10px;
+}
+.login h3{
+    background-color: #c4c7c4;
+    padding: 20px;
+    margin: 0;
+    border-radius: 10px;
+}
+.informations .panel-body h3:nth-child(odd){
+    background-color: #46b8da;
+}
+/* index page */
+.lastAndPanel:first-child{
+    margin-top: 20px;
+}
+.lastAndPanel img{
+    width: 360px;
+    height: 235px;
+}
+
+
+
+
+
+/* Footer */
+footer{
+    width: 100%;
+    background-color: #353638;
+    color: #ffffff;
+    overflow: hidden;
+}

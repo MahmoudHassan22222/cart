@@ -1,0 +1,4 @@
+ÇãÑ ÇäÔÇÁ ŞÇÚÏÉ ÈíÇäÇÊ ÌÏíÏÉ
+create database db_name character set utf8 collate utf8_general_ci
+Úãá ÑÈØ Èíä ÇáÌÏÇæá
+alter table xxx add constraint vvvv forien key () references
