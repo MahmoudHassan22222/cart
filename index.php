@@ -1,4 +1,5 @@
 <?php
+// Session Start
 session_start();
 require 'includes/init.php';
 ?>
